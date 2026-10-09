@@ -7,53 +7,20 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Lifelong+Learner+%26+Tech+Builder;Open+Source+Enthusiast;Turning+Ideas+into+Digital+Reality%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Mobile+App+Developer;IT Support Specialist" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social Badges -->
-  <p align="center">
-    <a href="https://github.com/fadiel1726" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-fadiel1726-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:emailanda@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
-
   <!-- Visitor Counter & Follower badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=fadiel1726&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/fadiel1726?label=Followers&style=flat-square&color=blue" alt="Followers" />
     <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Projects-brightgreen?style=flat-square" alt="Status" />
   </p>
 
 </div>
 
 ---
-
-### 🚀 Tentang Saya
-
-```yaml
-name: Fadiel
-role: Software Developer / Tech Explorer
-location: Indonesia 🇮🇩
-interests: Web Development, Modern UI/UX, Cloud & Open Source
-status: Terbuka untuk kolaborasi proyek menarik 🚀
-```
-
-- 🔭 **Sedang Mengerjakan**: Proyek web modern, aplikasi responsif, dan eksplorasi teknologi terbaru.
-- 🌱 **Sedang Mendalami**: Ekosistem modern JavaScript/TypeScript, framework frontend/backend, dan optimasi arsitektur sistem.
-- 💡 **Filosofi Kode**: *"Write clean, readable code and build experiences that matter."*
-- 💬 **Diskusi**: Desain UI/UX, arsitektur web, Git workflow, dan otomasi.
-- ⚡ **Fun Fact**: Kopi hangat ☕ dan alunan musik lofi 🎧 adalah kombo terbaik saat coding larut malam!
 
 ---
 
