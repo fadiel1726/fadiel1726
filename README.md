@@ -7,7 +7,7 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Mobile+App+Developer;IT Support Specialist%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Mobile+App+Developer;IT+Support+Specialist" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -15,7 +15,6 @@
   <!-- Visitor Counter & Follower badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=fadiel1726&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Projects-brightgreen?style=flat-square" alt="Status" />
   </p>
 
 </div>
@@ -89,9 +88,5 @@
 
   <!-- Wave Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=120&section=footer" width="100%" alt="Footer Wave" />
-
-  <p align="center">
-    <i>Dibuat dengan ❤️ oleh Fadiel &copy; 2026</i>
-  </p>
 
 </div>
