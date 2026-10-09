@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -44,8 +42,6 @@
 
 </div>
 
----
-
 ### 📊 Statistik GitHub
 
 <div align="center">
@@ -63,8 +59,6 @@
 
   <br/>
 </div>
-
----
 
 ---
 ### 🤝 Mari Terhubung
