@@ -7,7 +7,7 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Mobile+App+Developer;IT Support Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Mobile+App+Developer;IT Support Specialist%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -30,17 +30,17 @@
 
 #### 🌐 Languages & Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Stack" />
 </p>
 
 #### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,postgres,mongodb,firebase" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,mysql,postgres,supabase" alt="Backend Stack" />
 </p>
 
 #### 🧰 Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,vercel,linux" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux" alt="Tools Stack" />
 </p>
 
 </div>
@@ -63,31 +63,11 @@
   </table>
 
   <br/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=fadiel1726&theme=tokyonight&hide_border=true" width="800" alt="GitHub Streak Stats" />
-
-  <br/><br/>
-
-  <!-- Contribution Graph / Activity Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=fadiel1726&theme=flat&no-frame=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
-
 </div>
 
 ---
 
-### 🌟 Proyek Unggulan
-
-| Proyek | Deskripsi | Tech Stack | Tautan |
-|:---|:---|:---:|:---:|
-| 🌐 **Personal Website / Profile** | Halaman profil dan portofolio interaktif | `HTML` `CSS` `JS` | [🔗 Kunjungi Repo](https://github.com/fadiel1726/fadiel) |
-| 🚀 **Web App Modern** | Eksplorasi aplikasi responsif dengan integrasi antarmuka modern | `React` `Tailwind` | [🔗 Demo Proyek](#) |
-| 🛠️ **Utility Scripts & Tools** | Kumpulan tools untuk otomasi dan produktivitas developer | `Python` `Node.js` | [🔗 Lihat Kode](#) |
-
-> 💡 *Tertarik berkolaborasi atau punya ide proyek seru? Yuk diskusikan bersama!*
-
 ---
-
 ### 🤝 Mari Terhubung
 
 <div align="center">
